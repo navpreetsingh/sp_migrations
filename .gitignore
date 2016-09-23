@@ -16,3 +16,4 @@
 !/log/.keep
 /tmp
 /backup.sql
+/config/database.yml
